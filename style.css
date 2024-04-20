@@ -1,0 +1,28 @@
+#header{
+    background-color: #ffc8dd;
+    border: 5px solid #f06598;
+    border-radius: 13px;
+    top: 0px;
+    margin-bottom: -1080px;
+    padding:15px;
+    box-shadow: 5px 10px 10px grey;
+    font-weight: bold;
+ }
+ body{
+     background-color: #bde0fe;
+     font-family: cursive;
+ } 
+ h2{
+    font-style: italic;
+    font-weight: bold;
+ }
+ #main{
+    background-color: navy;
+    color:black;
+    margin-top:100px;
+ }
+ canvas{
+    background-color: white;
+    border: 5px black solid;
+    margin-top: 80px;
+ }
